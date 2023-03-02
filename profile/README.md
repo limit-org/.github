@@ -7,3 +7,7 @@
  - A wide variety of topics to post in
  - E2E chat support for any members that choose to allow it
  - And much more to come...
+
+
+####### Limits is owned by @acreiko
+####### Join our discord!: https://discord.gg/sgYB9bcrA3
