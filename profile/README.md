@@ -9,5 +9,5 @@
  - And much more to come...
 
 
-###### Limits is owned by @acreiko
+###### Limits is owned by [@acreiko](https://github.com/acreiko)
 ###### Join our discord!: https://discord.gg/sgYB9bcrA3
