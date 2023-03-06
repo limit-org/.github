@@ -1,4 +1,4 @@
-# 👋 Heya! We are Limit-org.
+# 👋 Hello! We are the Limits organisation.
 ### We're the team behind the "Limits" forum.
 ### Limits aims to be a more private forum site similar to reddit with only one topic in mind: Tech.
 ### We feature:
