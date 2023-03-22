@@ -7,8 +7,8 @@
  - A wide variety of topics to post in
  - E2E chat support for any members that choose to allow it
  - And much more to come...
+### For the time being, Join our Discord!: https://discord.gg/sgYB9bcrA3 Thats where we are active for now.
 
 
-###### Limits is owned by [@acreiko](https://github.com/acreiko)
-###### Limits is devloped by [@acreiko](https://github.com/acreiko) and [@netolysis](https://github.com/netolysis)
+###### Limits is owned by [@acreiko](https://github.com/acreiko). Limits is devloped by [@acreiko](https://github.com/acreiko) and [@netolysis].(https://github.com/netolysis)
 ###### Join our discord!: https://discord.gg/sgYB9bcrA3
